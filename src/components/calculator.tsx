@@ -1,4 +1,4 @@
-import { MouseEventHandler, useReducer, useState } from "react"
+import { useState } from "react"
 
 const wrapperParent: React.CSSProperties = {
     display: 'flex',
